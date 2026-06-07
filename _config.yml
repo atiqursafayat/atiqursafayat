@@ -1,0 +1,22 @@
+title: Atiqur Rahman Atiq
+description: Portfolio of Atiqur Rahman Atiq — CSE Student, Developer & Tech Lead at Songjog Foundation
+url: "https://atiqursafayat.github.io"
+baseurl: ""
+
+theme: null
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: null
