@@ -1,4 +1,4 @@
-# Hi, I'm Atiqur Rahman Atiq 👋
+# Hi, I'm Atiqur Safayat 👋
 
 > **CSE Student** · **Developer** · **Tech Lead at Songjog Foundation**
 
@@ -22,7 +22,7 @@ Results-oriented CSE student and developer enthusiast in AI and Machine Learning
 
 ### 💻 Technical Skills
 
-`Python` `C` `HTML` `CSS` `JavaScript` `Django` `React` `WordPress` `AppSheet` `AppScript` `SQL` `Git`
+`C` `Python` `HTML` `CSS` `JavaScript` `Django` `React` `WordPress` `AppSheet` `AppScript` `SQL` `Git`
 
 ### 🎨 Software Skills
 
