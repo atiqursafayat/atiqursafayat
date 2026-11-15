@@ -1,56 +1,59 @@
-# Hi, I'm Atiqur Safayat 👋
+<img src="assets/banner.svg" alt="Atiqur Safayat — web platforms, automation and AI for nonprofits and care" width="100%"/>
 
-> **CSE Student** · **Developer** · **Tech Lead at Songjog Foundation**
+<p>
+  <a href="https://atiqursafayat.github.io"><img src="https://img.shields.io/badge/Portfolio-0B1F33?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/atiqur-safayat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:atiqursafayat@gmail.com"><img src="https://img.shields.io/badge/Email-2BB3A3?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
----
+I build the websites, internal apps and automations that a growing nonprofit runs on, and I am taking that work further with AI.
 
-### 🚀 About Me
+For six years I have led the tech behind [Songjog Foundation](https://songjog.org), a care organization registered in Bangladesh and the USA, growing from volunteer to team lead while studying Computer Science and Engineering at United International University.
 
-Results-oriented CSE student and developer enthusiast in AI and Machine Learning. Specializing in designing and implementing innovative solutions for complex challenges. Proven track record in project management, problem-solving, and cross-functional collaboration.
+## Built and running
 
-- 📍 **Dhaka, Bangladesh**
-- 🎓 **United International University** — B.Sc. in CSE (2023–Present)
-- 💼 **Songjog Foundation** — IT & Branding Executive + Secretary, Branding & Promotions (SVB)
+**Websites and platforms**
+- [songjog.org](https://songjog.org) — main website of Songjog Bangladesh; design, features and architecture, built on Odoo
+- [songjogfoundation.org](https://songjogfoundation.org) — rebuilt from a static page into a dynamic WordPress site
+- [songjogcare.com](https://songjogcare.com) and [caregiver.songjogcare.com](https://caregiver.songjogcare.com) — client and caregiver interfaces of a home-care service; full UI and frontend, plus the mobile app UI
+- [songjogshop.com](https://songjogshop.com) — e-commerce on Bagisto, with a bKash payment gateway I published as open source
+- [verify.songjog.org](https://verify.songjog.org) — public certificate verification, synced from the training system
+- [svb.songjog.org](https://svb.songjog.org) — volunteer website and portal (Django), launching
 
----
+**Apps and automation for daily operations**
+- Care-home records — patients, vital signs, hospital visits, stock
+- Qurbani donation management — donor mapping, volunteer assignment, receipts
+- Caregiver training and certification, scholarship records, inventory and email outreach (MailReach)
+- Daily electricity-balance check that reports to the team on Google Chat
 
-### 🌐 Live Portfolio
+**AI, media and hardware**
+- **BONDHU** — companion robot for elderly people: voice conversation, presence sensing with mmWave radar, reminders (Python, Raspberry Pi)
+- **Jotner Pesha (Care as a Profession)** — published Bangla animated series for caregiver training and recruitment, produced with a programmatic Remotion pipeline
 
-**[atiqursafayat.github.io](https://atiqursafayat.github.io)** — Full portfolio website with projects, experience, and contact info.
+## Open source
 
----
+- [bagisto-bkash-v2](https://github.com/atiqursafayat/bagisto-bkash-v2) — bKash API v2 payment gateway for Bagisto, published on [Packagist](https://packagist.org/packages/atiqursafayat/bagisto-bkash-v2)
 
-### 💻 Technical Skills
+Case studies with screenshots and architecture for the private systems are on the way as separate repositories.
 
-`C` `Python` `HTML` `CSS` `JavaScript` `Django` `React` `WordPress` `AppSheet` `AppScript` `SQL` `Git`
+## Toolbox
 
-### 🎨 Software Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,php,java,c,cpp,html,css,django,react,laravel,wordpress,postgres,mysql,docker,gcp,azure,linux,git,raspberrypi,figma,ai,ps,pr" alt="Languages, frameworks and tools"/>
+</p>
 
-`Adobe Illustrator` `Adobe Photoshop` `Adobe Premiere Pro` `Microsoft Office` `Canva`
+<p>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo"/>
+  <img src="https://img.shields.io/badge/AppSheet-1A73E8?style=flat-square&logo=google&logoColor=white" alt="AppSheet"/>
+  <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white" alt="Apps Script"/>
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white" alt="Make.com"/>
+  <img src="https://img.shields.io/badge/Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white" alt="Retool"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce"/>
+  <img src="https://img.shields.io/badge/Microsoft_365_Admin-D83B01?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365 Admin"/>
+  <img src="https://img.shields.io/badge/Google_Workspace-34A853?style=flat-square&logo=googleworkspace&logoColor=white" alt="Google Workspace"/>
+  <img src="https://img.shields.io/badge/Remotion-0B84F3?style=flat-square&logo=remotion&logoColor=white" alt="Remotion"/>
+</p>
 
-### 🌐 Languages
+## Let's talk
 
-`English` `Bangla`
-
----
-
-### 🎯 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [songjog.org](https://songjog.org) | Main platform for Songjog Foundation |
-| [songjogcare.com](https://songjogcare.com) | Care & support services platform |
-| [songjogshop.com](https://songjogshop.com) | E-commerce for Songjog products |
-| [ngo-inventory](https://github.com/atiqursafayat/ngo-inventory) | Full-stack NGO inventory system (Django + React) |
-
----
-
-### 📫 Connect
-
-- 📧 **Email:** [atiqursafayat@gmail.com](mailto:atiqursafayat@gmail.com)
-- 💻 **GitHub:** [@atiqursafayat](https://github.com/atiqursafayat)
-- 🌐 **Website:** [songjog.org](https://songjog.org)
-
----
-
-*Last updated: June 2026*
+Open to work and collaboration on web platforms, automation and AI for nonprofits, care and education: [atiqursafayat@gmail.com](mailto:atiqursafayat@gmail.com)
