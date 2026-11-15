@@ -6,9 +6,16 @@
   <a href="mailto:atiqursafayat@gmail.com"><img src="https://img.shields.io/badge/Email-2BB3A3?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-I build the websites, internal apps and automations that a growing nonprofit runs on, and I am taking that work further with AI.
+I design, build and run the digital systems behind Songjog Foundation — websites, internal apps and automations — and I am bringing AI into that work.
 
-For six years I have led the tech behind [Songjog Foundation](https://songjog.org), a care organization registered in Bangladesh and the USA, growing from volunteer to team lead while studying Computer Science and Engineering at United International University.
+[Songjog Foundation](https://songjog.org) is a nonprofit registered in Bangladesh and the USA. It works across healthcare and home care, a care and rehabilitation home, skills and IT training, scholarships, and a volunteer network. I joined as a volunteer in 2020 and now lead its monitoring, IT and digital work, while studying Computer Science and Engineering at United International University.
+
+## What I do
+
+- **Build** web platforms with Django, Odoo, WordPress and Laravel
+- **Automate** daily operations with AppSheet, Apps Script, Make.com and Retool
+- **Lead products** — turn needs into specs, user flows and UI for external development teams
+- **Design** brand identities, interfaces, graphics, video and motion
 
 ## Built and running
 
@@ -19,6 +26,7 @@ For six years I have led the tech behind [Songjog Foundation](https://songjog.or
 - [songjogshop.com](https://songjogshop.com) — e-commerce on Bagisto, with a bKash payment gateway I published as open source
 - [verify.songjog.org](https://verify.songjog.org) — public certificate verification, synced from the training system
 - [svb.songjog.org](https://svb.songjog.org) — volunteer website and portal (Django), launching
+- [pilot-isd.songjog.org](https://pilot-isd.songjog.org) — skills training platform built with an external team; I defined its features, user flows and UI guidelines
 
 **Apps and automation for daily operations**
 - Care-home records — patients, vital signs, hospital visits, stock
@@ -33,8 +41,6 @@ For six years I have led the tech behind [Songjog Foundation](https://songjog.or
 ## Open source
 
 - [bagisto-bkash-v2](https://github.com/atiqursafayat/bagisto-bkash-v2) — bKash API v2 payment gateway for Bagisto, published on [Packagist](https://packagist.org/packages/atiqursafayat/bagisto-bkash-v2)
-
-Case studies with screenshots and architecture for the private systems are on the way as separate repositories.
 
 ## Toolbox
 
@@ -52,6 +58,7 @@ Case studies with screenshots and architecture for the private systems are on th
   <img src="https://img.shields.io/badge/Microsoft_365_Admin-D83B01?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365 Admin"/>
   <img src="https://img.shields.io/badge/Google_Workspace-34A853?style=flat-square&logo=googleworkspace&logoColor=white" alt="Google Workspace"/>
   <img src="https://img.shields.io/badge/Remotion-0B84F3?style=flat-square&logo=remotion&logoColor=white" alt="Remotion"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
 </p>
 
 ## Let's talk
