@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Atiqur Safayat: web platforms, automation and AI for nonprofits" width="100%"/>
+<img src="assets/banner.svg" alt="Atiqur Safayat: web platforms, internal tools, automation and AI" width="100%"/>
 
 <p>
   <a href="https://atiqursafayat.github.io"><img src="https://img.shields.io/badge/Portfolio-0B1F33?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -6,9 +6,9 @@
   <a href="mailto:atiqursafayat@gmail.com"><img src="https://img.shields.io/badge/Email-2BB3A3?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-Hi, I'm Atiqur. I look after the websites, internal apps and automation at [Songjog Foundation](https://songjog.org), a nonprofit registered in Bangladesh and the USA. I joined as a volunteer in 2020 and I'm now a team lead there, while finishing my CSE degree at United International University.
+Hi, I'm Atiqur. I build websites, internal tools and automations that teams use every day, and lately I've been bringing AI into that work.
 
-Songjog runs home care and healthcare services, a care and rehabilitation home, skills and IT training, a scholarship program and a volunteer network, so the work covers a lot of ground. Lately I've been bringing AI into it.
+Most of it so far has been at [Songjog Foundation](https://songjog.org), a nonprofit registered in Bangladesh and the USA. I joined as a volunteer in 2020 and I'm now a team lead there, while finishing my CSE degree at United International University. Songjog runs home care and healthcare services, a care and rehabilitation home, skills and IT training, a scholarship program, an online shop and a volunteer network, so I've built for healthcare, education, e-commerce, donations and HR-style operations. I'd like to bring the same skills to other industries too.
 
 ## What I work on
 
@@ -63,4 +63,4 @@ Songjog runs home care and healthcare services, a care and rehabilitation home, 
 
 ## Get in touch
 
-If you're working on tech for nonprofits, healthcare or education and want to collaborate, email me at [atiqursafayat@gmail.com](mailto:atiqursafayat@gmail.com).
+If your team needs a website, an internal tool or an automation, in any industry, email me at [atiqursafayat@gmail.com](mailto:atiqursafayat@gmail.com).
