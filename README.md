@@ -23,7 +23,7 @@ Most of it so far has been at [Songjog Foundation](https://songjog.org), a nonpr
 - [songjog.org](https://songjog.org): the main Songjog Bangladesh site. I designed it, planned the features and set it up on Odoo.
 - [songjogfoundation.org](https://songjogfoundation.org): turned a static page into a dynamic WordPress site and redesigned it.
 - [songjogcare.com](https://songjogcare.com) and [caregiver.songjogcare.com](https://caregiver.songjogcare.com): I did the UI and frontend for the client and caregiver sides, and designed the mobile app.
-- [songjogshop.com](https://songjogshop.com): our online shop on Bagisto. I also wrote a bKash payment gateway for Bagisto and published it as a package.
+- [songjogshop.com](https://songjogshop.com): our online shop on Bagisto. I upgraded an open-source bKash payment gateway for Bagisto to the bKash API v2 and published it as a package.
 - [verify.songjog.org](https://verify.songjog.org): anyone can check a Songjog training certificate here. It pulls records from our training system.
 - [svb.songjog.org](https://svb.songjog.org): volunteer website and portal built with Django, in final testing.
 - [pilot-isd.songjog.org](https://pilot-isd.songjog.org): skills training platform. An outside team built it, and I worked out the features, flows and UI guidelines with them.
@@ -40,7 +40,7 @@ Most of it so far has been at [Songjog Foundation](https://songjog.org), a nonpr
 
 ## Open source
 
-- [bagisto-bkash-v2](https://github.com/atiqursafayat/bagisto-bkash-v2): bKash API v2 payment gateway for Bagisto, on [Packagist](https://packagist.org/packages/atiqursafayat/bagisto-bkash-v2)
+- [bagisto-bkash-v2](https://github.com/atiqursafayat/bagisto-bkash-v2): bKash payment gateway for Bagisto, upgraded to the bKash API v2 from an earlier open-source package, on [Packagist](https://packagist.org/packages/atiqursafayat/bagisto-bkash-v2)
 
 ## Tools
 
